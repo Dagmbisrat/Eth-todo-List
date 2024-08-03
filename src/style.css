@@ -1,0 +1,38 @@
+main {
+    margin-top: 60px;
+  }
+
+  #content {
+    display: none;
+  }
+
+  form {
+    width: 350px;
+    margin-bottom: 10px;
+  }
+
+  ul {
+    margin-bottom: 0px;
+  }
+
+  #completedTaskList .content {
+    color: rgb(209, 0, 0);
+    text-decoration: line-through;
+  }
+  .container{
+    max-width: 450px;
+    max-height: 7000px;
+    margin: 50px auto;
+    background-color: #dcdbdf;
+    padding: 20px;
+    border-radius: 10px;
+    /* box-shadow: 0 2px 4px rgb(255, 0, 0); */
+    
+  }
+  h1{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: rgb(0, 0, 0);
+
+  }
